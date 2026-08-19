@@ -27,14 +27,14 @@
         <mxCell id="YP6nG0PtLmh59ndGa3nF-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="稀疏张量" vertex="1">
           <mxGeometry height="30" width="80" x="150.15" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="YP6nG0PtLmh59ndGa3nF-10" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
-          <mxGeometry height="30" width="120" x="130.07" y="340" as="geometry" />
+        <mxCell id="YP6nG0PtLmh59ndGa3nF-10" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#C4C4C4;strokeColor=none;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="30" width="120" x="130.07" y="339" as="geometry" />
         </mxCell>
-        <mxCell id="YP6nG0PtLmh59ndGa3nF-11" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rotation=-180;labelBorderColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+        <mxCell id="YP6nG0PtLmh59ndGa3nF-11" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rotation=-180;labelBorderColor=default;fillColor=#C4C4C4;strokeColor=none;fontColor=#333333;" value="" vertex="1">
           <mxGeometry height="30" width="120" x="130.22" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="YP6nG0PtLmh59ndGa3nF-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="三维稀疏卷积" vertex="1">
-          <mxGeometry height="30" width="60" x="160.07" y="330" as="geometry" />
+        <mxCell id="YP6nG0PtLmh59ndGa3nF-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#C4C4C4;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;" value="三维稀疏卷积" vertex="1">
+          <mxGeometry height="30" width="60" x="160.22" y="325" as="geometry" />
         </mxCell>
         <mxCell id="YP6nG0PtLmh59ndGa3nF-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="稀疏特征张量" vertex="1">
           <mxGeometry height="30" width="180" x="290" y="70" as="geometry" />
@@ -81,7 +81,7 @@
         <mxCell id="YP6nG0PtLmh59ndGa3nF-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="树/非树稀疏卷积模块" vertex="1">
           <mxGeometry height="55" width="95" x="510" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="YP6nG0PtLmh59ndGa3nF-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="YP6nG0PtLmh59ndGa3nF-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="215" width="272" x="498" y="155" as="geometry" />
         </mxCell>
         <mxCell id="YP6nG0PtLmh59ndGa3nF-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
